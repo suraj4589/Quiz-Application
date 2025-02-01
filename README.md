@@ -6,18 +6,27 @@
 🛠 Features
 
 ✅ Live Quiz System – Start and complete quizzes with a structured UI
+
 ✅ Real-Time Timer – Countdown for both the quiz duration and midnight reset
+
 ✅ Question Navigation – Answer questions and proceed with Next button
+
 ✅ Correct/Wrong Answer Feedback – Highlights answers after selection
+
 ✅ Score Calculation – Tracks user performance at the end
+
 ✅ Restart Quiz – Allows users to retake the quiz after completion
+
 ✅ Mobile Responsive – Fully responsive using Tailwind CSS
 
 🧑‍💻 Tech Stack
 
 Frontend: React.js, Tailwind CSS
+
 Backend: API-based data fetching
+
 State Management: React Hooks (useState, useEffect)
+
 UI Enhancements: Animations, real-time countdown, hover effects
 
 
@@ -27,14 +36,12 @@ https://github.com/user-attachments/assets/c76bab2a-1106-4858-b9cf-d958c1cedfa8
 
 
 
-
-
-
 🚀 Getting Started
 
 1️⃣ Clone the Repository
 
 git clone https://github.com/yourusername/live-quiz-app.git
+
 cd live-quiz-app
 
 📡 API Integration
