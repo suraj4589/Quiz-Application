@@ -1,3 +1,4 @@
+
 📌  Quiz Application - Overview
 
 🚀  Quiz Appliction is an interactive web-based quiz platform designed to deliver real-time tests with a countdown timer, score tracking, and a seamless user experience. It features live tests, real-time countdowns, and dynamic quiz questions fetched from an API.
@@ -22,8 +23,11 @@ UI Enhancements: Animations, real-time countdown, hover effects
 
 📸 Screenshots
 
+https://github.com/user-attachments/assets/c76bab2a-1106-4858-b9cf-d958c1cedfa8
 
-![UI_Quiz_Application](https://github.com/user-attachments/assets/080d5c6d-6ea8-425b-9706-044c5427a079)
+
+
+
 
 
 🚀 Getting Started
